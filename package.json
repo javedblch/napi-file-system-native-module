@@ -1,0 +1,23 @@
+{
+  "main": "lib/binding.js",
+  "dependencies": {
+    "node-addon-api": "^1.1.0"
+  },
+  "scripts": {
+    "test": "node --napi-modules ./test/test_binding.js"
+  },
+  "gypfile": true,
+  "name": "n-api-file-system-native-module",
+  "version": "1.0.0",
+  "description": "Node Api File System Native Module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javedblch/napi-file-system-native-module.git"
+  },
+  "author": "Javed Baloch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javedblch/napi-file-system-native-module/issues"
+  },
+  "homepage": "https://github.com/javedblch/napi-file-system-native-module#readme"
+}
