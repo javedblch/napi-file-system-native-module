@@ -18,7 +18,9 @@ function testReadWrite() {
 
     // Check if the read content matches the written content
     //assert.strictEqual(result, text, "Content read from the file doesn't match the expected text");
+	
 }
 
 //assert.doesNotThrow(testReadWrite, undefined, "TestReadWrite threw an exception");
+
 console.log("Congratulations - test.txt file created successfully!");
