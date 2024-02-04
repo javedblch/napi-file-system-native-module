@@ -415,16 +415,6 @@
     "nodedir": "C:\\Users\\Javed Baloch\\AppData\\Local\\node-gyp\\Cache\\20.11.0",
     "python": "C:\\Users\\Javed Baloch\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
     "standalone_static_library": 1,
-    "msbuild_path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\MSBuild\\Current\\Bin\\MSBuild.exe",
-    "cache": "C:\\Users\\Javed Baloch\\AppData\\Local\\npm-cache",
-    "globalconfig": "C:\\Users\\Javed Baloch\\AppData\\Roaming\\npm\\etc\\npmrc",
-    "global_prefix": "C:\\Users\\Javed Baloch\\AppData\\Roaming\\npm",
-    "init_module": "C:\\Users\\Javed Baloch\\.npm-init.js",
-    "local_prefix": "D:\\native_modules\\n-api-file-system-native-module",
-    "node_gyp": "C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js",
-    "npm_version": "10.2.4",
-    "prefix": "C:\\Users\\Javed Baloch\\AppData\\Roaming\\npm",
-    "userconfig": "C:\\Users\\Javed Baloch\\.npmrc",
-    "user_agent": "npm/10.2.4 node/v20.11.0 win32 x64 workspaces/false"
+    "msbuild_path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\MSBuild\\Current\\Bin\\MSBuild.exe"
   }
 }

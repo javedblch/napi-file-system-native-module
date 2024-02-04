@@ -19,18 +19,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "(src)", "..\native_modules\
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Release|x64 = Release|x64
 		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B147D00A-2C75-111C-7ACF-96A4F334C792}.Release|x64.ActiveCfg = Release|x64
-		{B147D00A-2C75-111C-7ACF-96A4F334C792}.Release|x64.Build.0 = Release|x64
 		{B147D00A-2C75-111C-7ACF-96A4F334C792}.Debug|x64.ActiveCfg = Debug|x64
 		{B147D00A-2C75-111C-7ACF-96A4F334C792}.Debug|x64.Build.0 = Debug|x64
-		{DCBEBAF5-10DD-0094-B526-4602F268FF6B}.Release|x64.ActiveCfg = Release|x64
-		{DCBEBAF5-10DD-0094-B526-4602F268FF6B}.Release|x64.Build.0 = Release|x64
+		{B147D00A-2C75-111C-7ACF-96A4F334C792}.Release|x64.ActiveCfg = Release|x64
+		{B147D00A-2C75-111C-7ACF-96A4F334C792}.Release|x64.Build.0 = Release|x64
 		{DCBEBAF5-10DD-0094-B526-4602F268FF6B}.Debug|x64.ActiveCfg = Debug|x64
 		{DCBEBAF5-10DD-0094-B526-4602F268FF6B}.Debug|x64.Build.0 = Debug|x64
+		{DCBEBAF5-10DD-0094-B526-4602F268FF6B}.Release|x64.ActiveCfg = Release|x64
+		{DCBEBAF5-10DD-0094-B526-4602F268FF6B}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

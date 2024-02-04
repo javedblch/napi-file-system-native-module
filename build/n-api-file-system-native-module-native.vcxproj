@@ -140,7 +140,7 @@
     <ClCompile Include="..\src\n_api_file_system_native_module.cc">
       <ObjectFileName>$(IntDir)\src\n_api_file_system_native_module.obj</ObjectFileName>
     </ClCompile>
-    <ClCompile Include="C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\src\win_delay_load_hook.cc"/>
+    <ClCompile Include="C:\Users\Javed Baloch\AppData\Roaming\npm\node_modules\node-gyp\src\win_delay_load_hook.cc"/>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\node_modules\node-addon-api\src\nothing.vcxproj">
