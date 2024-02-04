@@ -17,10 +17,10 @@ function testReadWrite() {
     const result = FileUtil.readFile(filePath); // Use filePath instead of testFilePath
 
     // Check if the read content matches the written content
-    //assert.strictEqual(result, text, "Content read from the file doesn't match the expected text");
+    assert.strictEqual(result, text, "Content read from the file doesn't match the expected text");
 	
 }
 
-//assert.doesNotThrow(testReadWrite, undefined, "TestReadWrite threw an exception");
+assert.doesNotThrow(testReadWrite, undefined, "TestReadWrite threw an exception");
 
 console.log("Congratulations - test.txt file created successfully!");
